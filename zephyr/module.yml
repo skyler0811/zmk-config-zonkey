@@ -1,4 +1,4 @@
-name: roBa
+name: zonkey
 build:
   settings:
     board_root: config
