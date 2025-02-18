@@ -1,8 +1,8 @@
 file_format: "1"
-id: roBa
-name: roBa
+id: goyakey58
+name: goyakey58
 type: shield
-url: https://github.com/kumamuk-git/zmk-config-roBa
+url: https://github.com/goyakey58/zmk-config-zonkey
 requires: [seeeduino_xiao_ble]
 features:
   - keys
