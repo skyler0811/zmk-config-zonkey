@@ -244,7 +244,7 @@
 &kp F1   &kp F2                  &kp F3          &kp F4                   &kp F5                                     &kp F6  &kp F7         &kp F8  &kp F9  &kp F10
 &kp F11  &kp LEFT_ARROW          &kp UP_ARROW    &kp RIGHT_ARROW          &kp END      &trans                &trans  &trans  &trans         &trans  &trans  &trans
 &trans   &kp LG(LS(LEFT_ARROW))  &kp DOWN_ARROW  &kp LG(LS(RIGHT_ARROW))  &trans       &trans                &trans  &trans  &trans         &trans  &trans  &trans
-&trans   &trans                  &trans          &lt 3 INT_HENKAN         &lt 0 SPACE  &lt 5 INT_MUHENKAN            &trans  &kp LC(LCTRL)                           &trans
+&trans   &trans                  &trans          &lt 3 INT_HENKAN         &lt 0 SPACE  &lt 5 INT_MUHENKAN            &trans  &kp RC(LCTRL)                           &trans
             >;
 
             sensor-bindings = <&encoder_msc_down_up>;
